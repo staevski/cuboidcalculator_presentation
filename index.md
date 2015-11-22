@@ -11,16 +11,6 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 
---- .class #id
-
-## <img src="assets/img/imgres.jpg" > Contents of the presentation
-
-
-1. The shiny App - Cuboidcalculator 
-2. The Input 
-3. The Output 
-4. Live Example
-
 --- .class #id 
 
 ## <img src="assets/img/imgres.jpg" > 1. The shiny App - Cuboidcalculator
@@ -66,7 +56,7 @@ Current Date and Time:
   
 
 ```
-## [1] "2015-11-22 21:37:59 CET"
+## [1] "2015-11-22 21:45:20 CET"
 ```
 
 
